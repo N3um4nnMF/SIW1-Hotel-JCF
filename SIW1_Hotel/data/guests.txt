@@ -1,0 +1,4 @@
+AB123456;ivan petrov;false
+CD789012;anna sidorova-kim;false
+EF345678;dana nurlanova;true
+IJ112233;timur akhmetov;false
